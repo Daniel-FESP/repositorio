@@ -1,0 +1,44 @@
+[33mcommit 194c5e81d73c398db3282356eebe55bff2c957f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-13-59.ec2.internal>
+Date:   Thu Apr 13 20:01:09 2023 +0000
+
+    Adicionando novos arquivos
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex dd66e99..2d4805a 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,5 @@[m
+ # Meu primeiro repositorio[m
+[32m+[m
+[32m+[m[32m## Este é o meu repositorio[m
+[32m+[m
+[32m+[m[32mTeste de inserção[m
+[1mdiff --git a/unimed.md b/unimed.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5b7aba9[m
+[1m--- /dev/null[m
+[1m+++ b/unimed.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m# Unimed2 SP[m
+[1mdiff --git a/unimed2.md b/unimed2.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..49b4d72[m
+[1m--- /dev/null[m
+[1m+++ b/unimed2.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m# Unimed SP[m
+
+[33mcommit 62be732154956755d65982456abb944c10754399[m
+Author: root <root@ip-172-31-13-59.ec2.internal>
+Date:   Thu Apr 13 19:33:06 2023 +0000
+
+    Adionando o README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..dd66e99[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m# Meu primeiro repositorio[m
